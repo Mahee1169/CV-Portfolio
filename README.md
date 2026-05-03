@@ -1,7 +1,3 @@
-# Mahfujul Islam Mahee
-**Computer Science & Engineering | Machine Learning & Flutter Developer**
-📍 Sylhet, Bangladesh | ✉️ [Email Address] | 🔗 [GitHub Profile Link] | 🔗 [LinkedIn Profile Link]
-
 ## 🎯 Career Objective
 I would like to build my career in a well-known organization by using my creativity, efficiency, and hard work. I aim to contribute to organizational goals while continuously improving myself and embracing challenges and competition.
 
