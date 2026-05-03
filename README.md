@@ -1,9 +1,31 @@
-## 🎓 Education
-**B.Sc. in Computer Science and Engineering**
-*Leading University, Sylhet*
+# Mahfujul Islam Mahee
+**Computer Science & Engineering | Machine Learning & Flutter Developer**
+📍 Sylhet, Bangladesh | ✉️ [Email Address] | 🔗 [GitHub Profile Link] | 🔗 [LinkedIn Profile Link]
 
+## 🎯 Career Objective
+I would like to build my career in a well-known organization by using my creativity, efficiency, and hard work. I aim to contribute to organizational goals while continuously improving myself and embracing challenges and competition.
+
+---
+
+## 🎓 Educational Qualifications
+
+**💻 Bachelor of Science (BSc) in Computer Science & Engineering**
+*Leading University, Sylhet*
+* **Status:** 4th Year (Ongoing)
 * **Batch:** 60th Batch (Section D)
 * **Relevant Coursework:** Object-Oriented Programming, Advanced Mathematics (Calculus), Computer Graphics, Cybersecurity & Cryptography.
+
+**📘 Higher Secondary Certificate (HSC)**
+*MC College, Sylhet*
+* **Group:** Science | **Board:** Sylhet
+* **GPA:** 5.00
+* **Passing Year:** 2020
+
+**📗 Secondary School Certificate (SSC)**
+*Border Guard Public School & College, Sylhet*
+* **Group:** Science | **Board:** Sylhet
+* **GPA:** 5.00
+* **Passing Year:** 2018
 
 ---
 
@@ -44,3 +66,8 @@
 ## 🔐 Security & Operations
 * Practical experience studying and executing fundamental cybersecurity techniques, including dictionary attacks using wordlists (e.g., `rockyou.txt`) in an Ubuntu environment.
 * Solid understanding of cryptographic principles and cipher implementation.
+
+---
+
+## 📜 Declaration
+I hereby declare that all the above information is true and correct to the best of my knowledge and belief.
