@@ -1,5 +1,6 @@
 ## 🎯 Career Objective
 Dedicated software developer and researcher with a strong foundation in complex data analysis, machine learning algorithms, and modern application frameworks. I am eager to apply my technical problem-solving skills to real-world challenges, contributing to innovative projects while continuously expanding my expertise in the tech industry.
+
 ---
 
 ## 🎓 Educational Qualifications
