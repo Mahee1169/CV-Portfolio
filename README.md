@@ -13,13 +13,15 @@ I would like to build my career in a well-known organization by using my creativ
 
 **📘 Higher Secondary Certificate (HSC)**
 *MC College, Sylhet*
-* **Group:** Science | **Board:** Sylhet
+* **Group:** Science
+* **Board:** Sylhet
 * **GPA:** 5.00
 * **Passing Year:** 2020
 
 **📗 Secondary School Certificate (SSC)**
 *Border Guard Public School & College, Sylhet*
-* **Group:** Science | **Board:** Sylhet
+* **Group:** Science
+* **Board:** Sylhet
 * **GPA:** 5.00
 * **Passing Year:** 2018
 
