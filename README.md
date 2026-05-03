@@ -1,6 +1,5 @@
 ## 🎯 Career Objective
-I would like to build my career in a well-known organization by using my creativity, efficiency, and hard work. I aim to contribute to organizational goals while continuously improving myself and embracing challenges and competition.
-
+Dedicated software developer and researcher with a strong foundation in complex data analysis, machine learning algorithms, and modern application frameworks. I am eager to apply my technical problem-solving skills to real-world challenges, contributing to innovative projects while continuously expanding my expertise in the tech industry.
 ---
 
 ## 🎓 Educational Qualifications
@@ -68,4 +67,4 @@ I would like to build my career in a well-known organization by using my creativ
 ---
 
 ## 📜 Declaration
-I hereby declare that all the above information is true and correct to the best of my knowledge and belief.
+I solemnly declare that all the particulars stated above are true, complete, and correct to the best of my knowledge and belief.
